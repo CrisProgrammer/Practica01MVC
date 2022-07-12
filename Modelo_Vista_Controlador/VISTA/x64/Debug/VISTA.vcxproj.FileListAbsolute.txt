@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\VISTA\x64\Debug\VISTA.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\VISTA\x64\Debug\VISTA.vcxproj.CopyComplete
+C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\VISTA\x64\Debug\VISTA.MyForm.resources
+C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\VISTA\x64\Debug\VISTA.vcxproj.GenerateResource.cache

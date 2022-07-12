@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  main.cpp
+C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\VISTA\main.cpp(7,33): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generando código...
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  VISTA.vcxproj -> C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\x64\Debug\VISTA.exe

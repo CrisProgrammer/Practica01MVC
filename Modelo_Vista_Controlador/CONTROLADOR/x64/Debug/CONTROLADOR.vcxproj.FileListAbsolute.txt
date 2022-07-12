@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\CONTROLADOR\x64\Debug\CONTROLADOR.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\CONTROLADOR\x64\Debug\CONTROLADOR.vcxproj.CopyComplete

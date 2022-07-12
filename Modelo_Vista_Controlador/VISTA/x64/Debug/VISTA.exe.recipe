@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\x64\Debug\MODELO.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\x64\Debug\CONTROLADOR.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\HP\source\repos\DefLabSis457\Modelo_Vista_Controlador\x64\Debug\VISTA.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
